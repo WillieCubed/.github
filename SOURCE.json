@@ -1,0 +1,11 @@
+{
+  "repository": "WillieCubed/repository-tooling",
+  "ref": null,
+  "commit": "1ace0e8a98fe1a395ce9a79a0665c24ed69f2020",
+  "files": {
+    ".github/ISSUE_TEMPLATE/bug.yml": "640865f0fc20f6dbc5335db7a9a3a4b0d0e471829ff5da46c0f785497624ba36",
+    ".github/ISSUE_TEMPLATE/feature.yml": "b9510f2223104a4f420a3bd52d212512f5613c65ee4cf1efdc83a8fffa1149f8",
+    ".github/ISSUE_TEMPLATE/config.yml": "8b09e7df09fc7534371988062769ee427af2954a02c04c763e8a8005be0f2be4",
+    ".github/pull_request_template.md": "45eb961b3d4ec77f7d1db6e6cf4d9bf246d6dc56b084a81db238934f8af066de"
+  }
+}
